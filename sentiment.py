@@ -27,6 +27,6 @@ plt.bar(score_values, counts)
 plt.xlabel("Score")
 plt.ylabel("Count")
 plt.title("Distribution of Scores in Reviews")
-plt.show()
+plt.show() #show the bar graph
 
 
