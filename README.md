@@ -10,3 +10,9 @@ To do for the next couple of weeks:
 - Brainstorm extra things that we can do with these materials 
 
 PRIORITY - we need every member to download our csv file dataset of amazon reviews from kaggle: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?resource=download
+
+
+
+![image](https://github.com/user-attachments/assets/e09416d5-493b-4a3b-b362-5e651d15e7a0)
+
+bar graph printed out from the initial data processing
